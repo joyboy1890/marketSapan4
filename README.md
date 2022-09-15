@@ -1,7 +1,7 @@
-﻿# ระบบจัดการข้อมูลตลาดสะพาน 4
+﻿# Saphan 4 Market Management
 
-โปรเจคเขียนขึ้นในขณะที่ผมเป็นนักศึกษ คือระบบการจัดการข้อมูลการซื้อขายและการเลือกโซนขายของของพ่อค้าแม่ค้าที่มาขายของในตลาดสะพาน 4  
+The project was developed while I was a student, It is a system for managing the market and selecting the selling zone of the merchants who come to sell in Saphan 4 Market
 .  
-##  ------ Technology ที่ใช้ ------
-- หลังบ้านใช้เป็น PurePHP
-- หน้าบ้านใช้เป็น JavaScript + CSS Framework (Bootstrap)
+##  ------ Technology used ------
+- Back-End is PHP
+- Front-End is HTML + JavaScript + CSS Framework (Bootstrap)
